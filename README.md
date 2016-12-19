@@ -1,0 +1,2 @@
+# GenericClickSimilarity
+Generic ClickSimilarity Algorithm
